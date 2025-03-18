@@ -126,3 +126,5 @@
 2025-09-28 18:31:00 | DEBUG | repo=esp-idf | action=commit
 2025-11-19 14:50:00 | WARN | repo=esp-idf | action=commit
 2025-10-15 14:46:00 | INFO | repo=esp-idf | action=commit
+2025-01-05 12:15:00 | WARN | repo=esp-idf | action=test | passed=true
+2025-03-18 21:06:00 | WARN | repo=esp-idf | action=commit
