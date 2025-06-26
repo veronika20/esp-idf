@@ -23,3 +23,5 @@
 2025-08-18 08:46:00 | WARN | repo=esp-idf | action=commit
 2025-01-03 07:37:00 | WARN | repo=esp-idf | action=test | passed=true
 2025-06-06 10:34:00 | DEBUG | repo=esp-idf | action=commit
+2025-07-27 20:59:00 | WARN | repo=esp-idf | action=test | passed=true
+2025-06-26 08:08:00 | DEBUG | repo=esp-idf | action=commit
